@@ -1,0 +1,8 @@
+.body{
+  
+    flex: 0.8;
+    background-color: plum;
+    height: 100vh;
+    color: white;
+    padding: 30px;
+}

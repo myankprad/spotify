@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    background-color: black;
+    font-family: "opensans" , sans-serif;
+}
+.login{
+    background-color: black;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.login img{
+    width: 100%;
+    
+}
+.login a{
+    padding: 20px;
+    border-radius: 99px;
+    background-color: #1db954;
+    font-weight: 800;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
