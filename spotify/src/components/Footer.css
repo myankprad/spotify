@@ -3,6 +3,6 @@
     bottom: 0;
     height: 65px;
     width: 100%;
-    background-color: burlywood;
+    background-color: hwb(0 16% 84%);
     padding: 20px;
 }
